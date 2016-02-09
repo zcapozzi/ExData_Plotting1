@@ -1,5 +1,3 @@
-setwd("C:\\Users\\zcapozzi002\\Documents\\GitHub\\ExData_Plotting1\\")
-
 # Read in the source data file from text using a semi-colon delimiter (2,075,259 rows)
 data <- read.delim("household_power_consumption.txt", sep=";")
 
